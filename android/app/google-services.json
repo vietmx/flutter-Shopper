@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "544444069960",
+    "firebase_url": "https://shopper-fcc6c.firebaseio.com",
+    "project_id": "shopper-fcc6c",
+    "storage_bucket": "shopper-fcc6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544444069960:android:71febbb4ffd161fde7407d",
+        "android_client_info": {
+          "package_name": "com.karimulhasan.shopper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544444069960-cvdkchr52hn7mbmroh9cdolbkivk3d83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACRtvTbJUb4Q0ozimD4fDVHgZcVUypWNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544444069960-cvdkchr52hn7mbmroh9cdolbkivk3d83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
